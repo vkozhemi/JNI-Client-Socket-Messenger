@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JNI Client Socket Messenger</string>
+    <string name="connect_to_server">Connect</string>
+    <string name="send_message">Send message</string>
+    <string name="received_message_from_server">Received message:</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">disconnect</string>
+</resources>
